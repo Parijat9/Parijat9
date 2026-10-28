@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://parijat9.github.io/">Portfolio</a> &nbsp; / &nbsp;
-  <a href="https://parijat9.github.io/assets/parijat-anand-resume.pdf">Résumé</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/parijat-anand-25123418b">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:parijat.anand123@gmail.com">Email</a>
+  <a href="https://parijat9.github.io/"><img src="assets/icons/portfolio.svg" width="140" height="50" alt="Portfolio"></a>
+  <a href="https://parijat9.github.io/assets/parijat-anand-resume.pdf"><img src="assets/icons/resume.svg" width="138" height="50" alt="Résumé"></a>
+  <a href="https://www.linkedin.com/in/parijat-anand-25123418b"><img src="assets/icons/linkedin.svg" width="140" height="50" alt="LinkedIn"></a>
+  <a href="mailto:parijat.anand123@gmail.com"><img src="assets/icons/email.svg" width="116" height="50" alt="Email"></a>
 </p>
 
 ---
@@ -22,8 +22,24 @@ I work where logistics operations, finance and reporting meet. My focus is custo
 
 I build reports people can check and workflows people can follow. That often means finding why two figures disagree, deciding which exceptions need attention, or turning a manual handoff into a repeatable process.
 
-**Analysis & reporting** &nbsp; `SQL` `Power BI` `DAX` `Excel` `Tableau` `Python`<br>
-**Automation & delivery** &nbsp; `Power Automate` `Zoho Projects` `ClickUp`
+#### Analysis & reporting
+
+<p>
+  <img src="assets/icons/sql.svg" width="100" height="50" alt="SQL">
+  <img src="assets/icons/power-bi.svg" width="138" height="50" alt="Power BI">
+  <img src="assets/icons/dax.svg" width="108" height="50" alt="DAX">
+  <img src="assets/icons/excel.svg" width="116" height="50" alt="Excel">
+  <img src="assets/icons/tableau.svg" width="138" height="50" alt="Tableau">
+  <img src="assets/icons/python.svg" width="132" height="50" alt="Python">
+</p>
+
+#### Automation & delivery
+
+<p>
+  <img src="assets/icons/power-automate.svg" width="196" height="50" alt="Power Automate">
+  <img src="assets/icons/zoho-projects.svg" width="183" height="50" alt="Zoho Projects">
+  <img src="assets/icons/clickup.svg" width="136" height="50" alt="ClickUp">
+</p>
 
 ### See the work unfold
 
@@ -73,9 +89,11 @@ Four public projects built around practical logistics and reporting problems. Ea
 
 ### How I approach a problem
 
-**Understand the decision.** Start with the question the team needs answered.<br>
-**Check the records.** Agree on the definitions and investigate differences.<br>
-**Make the process repeatable.** Automate routine steps and keep a review point for uncertain cases.
+<p align="center">
+<img src="assets/icons/step-question.svg" width="250" height="144" alt="Understand the decision: start with the business question.">
+<img src="assets/icons/step-check.svg" width="250" height="144" alt="Check the records: agree on definitions and investigate differences.">
+<img src="assets/icons/step-repeat.svg" width="250" height="144" alt="Make it repeatable: automate steps and keep a review point.">
+</p>
 
 ---
 
