@@ -49,13 +49,13 @@ Four public projects built around practical logistics and reporting problems. Ea
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/Parijat9/freight-revenue-controls"><img src="assets/billing.png" alt="Freight billing report with a ledger and billing review list" width="100%"></a>
-<h3>Freight billing checks</h3>
+<h3>Freight Billing Checks</h3>
 <p>Compare agreed rates, invoices and payments. Put missing bills and incorrect charges in one review list.</p>
 <a href="https://github.com/Parijat9/freight-revenue-controls">Code</a> · <a href="https://parijat9.github.io/reports/revenue.html">Open report</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/Parijat9/shipment-exception-workbench"><img src="assets/shipment.png" alt="Shipment issue tracker showing tasks, owners and deadlines" width="100%"></a>
-<h3>Shipment issue tracker</h3>
+<h3>Shipment Issue Tracker</h3>
 <p>Turn shipment updates into proposed tasks with an owner, a deadline and a review step. Catch repeat updates before they create duplicate work.</p>
 <a href="https://github.com/Parijat9/shipment-exception-workbench">Code</a> · <a href="https://parijat9.github.io/reports/exceptions.html">Open report</a>
 </td>
@@ -63,13 +63,13 @@ Four public projects built around practical logistics and reporting problems. Ea
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/Parijat9/freight-capacity-planning"><img src="assets/capacity.png" alt="Freight capacity dashboard comparing demand, forecasts and capacity" width="100%"></a>
-<h3>Freight capacity planning</h3>
+<h3>Freight Capacity Planning</h3>
 <p>Compare expected demand with available capacity. Change the assumptions in Excel and see how the cost changes.</p>
 <a href="https://github.com/Parijat9/freight-capacity-planning">Code</a> · <a href="https://parijat9.github.io/reports/capacity.html">Open report</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/Parijat9/data-migration-testing-project"><img src="assets/transfer.png" alt="Data transfer check results in a dark console-style report" width="100%"></a>
-<h3>Data transfer checks</h3>
+<h3>Data Transfer Checks</h3>
 <p>Check source and destination files before reporting. Flag missing records, duplicates and differences in totals.</p>
 <a href="https://github.com/Parijat9/data-migration-testing-project">Code</a> · <a href="https://parijat9.github.io/reports/transfer.html">Open report</a>
 </td>
